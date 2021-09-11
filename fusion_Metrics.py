@@ -19,6 +19,7 @@ def EN(image):
 
 
 
+# 2.互信息
 def MI(image_X, image_F):
     grayscale_X = np.zeros(256)
     grayscale_F = np.zeros(256)
