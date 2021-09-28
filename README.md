@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">imagefusion_Perceptual_FusionGan (Pytorch)</h3>
+<h3 align="center">imagefusion_Perceptual_FusionGan [PerceptualFusion] (TensorFlow)</h3>
 
 
 ---
